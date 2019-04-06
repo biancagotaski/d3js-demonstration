@@ -1,0 +1,16 @@
+[
+    {
+        "x_axis": 100,
+        "y_axis": 200,
+        "radius": 80,
+        "fill": "orange",
+        "opacity": 0.5
+    },
+    {
+        "x_axis": 800,
+        "y_axis": 150,
+        "radius": 50,
+        "fill": "blue",
+        "opacity": 0.2
+    }
+]
